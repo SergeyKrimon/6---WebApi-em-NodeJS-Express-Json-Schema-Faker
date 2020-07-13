@@ -1,8 +1,20 @@
 {
 	"users": [
 		{
-			"name": "Rafael Martins",
-			"email": "Tertuliano.Barros@live.com"
+			"name": "Gúbio Barros",
+			"email": "Pedro_Barros30@hotmail.com"
+		},
+		{
+			"name": "Raul Batista",
+			"email": "Tertuliano.Batista51@hotmail.com"
+		},
+		{
+			"name": "Ofélia Costa Neto",
+			"email": "Ladislau.Carvalho@live.com"
+		},
+		{
+			"name": "Heitor Reis",
+			"email": "Breno_Barros@live.com"
 		}
 	]
 }
